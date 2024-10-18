@@ -1,4 +1,4 @@
-**Project Summary** Developed a program that optimizes delivery routes for trucks, ensuring timely package delivery while minimizing fuel consumption.
+**Project Summary:** Developed a program that optimizes delivery routes for trucks, ensuring timely package delivery while minimizing fuel consumption.
 
 **Implementation Steps:** This project provided a list of addresses, distances between said addresses, and a set of packages. I had to parse the data and develop a program that efficiently delivered the packages, ensuring timely deliveries while keeping the trucks within a specified fuel limit.
 
